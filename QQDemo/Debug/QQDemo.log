@@ -1,0 +1,39 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  UIMicroBlog.cpp
+d:\workspace\duilib\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  UIListCommonDefine.cpp
+d:\workspace\duilib\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  UIGroups.cpp
+d:\workspace\duilib\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+d:\workspace\duilib\qqdemo\uigroups.cpp(246): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+d:\workspace\duilib\qqdemo\uigroups.cpp(285): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+d:\workspace\duilib\qqdemo\uigroups.cpp(308): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+  UIFriends.cpp
+d:\workspace\duilib\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+d:\workspace\duilib\qqdemo\uifriends.cpp(249): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+d:\workspace\duilib\qqdemo\uifriends.cpp(288): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+d:\workspace\duilib\qqdemo\uifriends.cpp(311): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+  StdAfx.cpp
+d:\workspace\duilib\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  main_frame.cpp
+d:\workspace\duilib\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  main.cpp
+d:\workspace\duilib\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  debug.cpp
+d:\workspace\duilib\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+d:\workspace\duilib\qqdemo\debug.cpp(97): warning C4996: 'GetVersionExW': 被声明为已否决
+  d:\windows kits\10\include\10.0.17763.0\um\sysinfoapi.h(387): note: 参见“GetVersionExW”的声明
+  color_skin.cpp
+d:\workspace\duilib\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  ColorPicker.cpp
+d:\workspace\duilib\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  chat_dialog.cpp
+d:\workspace\duilib\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+d:\workspace\duilib\qqdemo\chat_dialog.cpp(88): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“DuiLib::CDuiString”
+d:\workspace\duilib\qqdemo\chat_dialog.cpp(191): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“DuiLib::CDuiString”
+d:\workspace\duilib\qqdemo\chat_dialog.cpp(203): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“DuiLib::CDuiString”
+  XUnzip.cpp
+  正在生成代码...
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(D:\WorkSpace\duilib\\bin\QQDemo.exe) 与 Linker 的 OutputFile 属性值(D:\WorkSpace\duilib\bin\QQDemo_d.exe)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(QQDemo) 与 Linker 的 OutputFile 属性值(QQDemo_d)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+LINK : fatal error LNK1181: 无法打开输入文件“duilib_d.lib”
